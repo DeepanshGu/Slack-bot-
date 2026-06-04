@@ -1,0 +1,9 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@slack/bolt": "^3.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
